@@ -8,3 +8,7 @@ Sure hope this works.
 This was pulled from github and edited.
 
 I'll try to put it back with these changes.
+
+This is the second change made in github
+
+The future's uncertain and the end is always near.
