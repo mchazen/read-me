@@ -1,3 +1,6 @@
 This is a test of github.
 
 Will try to upload this file to a repository.
+
+I am now editing this file in github
+Sure hope this works.
